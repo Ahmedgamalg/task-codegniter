@@ -1,0 +1,12 @@
+admin
+_______
+email :admin@yahoo.com
+password:12345
+
+
+user
+______
+email: user@yahoo.com
+password: 3456789
+
+
